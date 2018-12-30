@@ -42,7 +42,7 @@ Then run lokinet in foreground:
 
 `lokinet`
 
-For future reference, after generating initial configruation you just need to run `lokinet` and start browsing.
+For future reference, after generating initial configuration you just need to run `lokinet` and start browsing.
 
 
 ## Test services
