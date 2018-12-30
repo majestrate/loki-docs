@@ -38,7 +38,7 @@ For the first time setup, you need to generate a config and obtain bootstrap inf
 >
 >To enable a SNApps with a long term address, add `keyfile=/path/to/keyfile.private` to `[network]` section in `lokinet.ini` .
 
-Then run lokinet in forground:
+Then run lokinet in foreground:
 
 `lokinet`
 
